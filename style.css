@@ -1,0 +1,32 @@
+body {
+  background-color: #1b1717;
+  font-family: ubuntu;
+  margin: 25px 50px;
+}
+
+.box {
+  width: 600px;
+  height: 375px;
+  background-color: white;
+  border-radius: 10px;
+
+  margin: 150px auto;
+  padding: 30px;
+}
+.pic {
+  border-radius: 50%;
+}
+#text {
+  margin-top: 25px;
+  border: none;
+}
+.btn-lg {
+  width: 100px;
+}
+.bot {
+  margin-top: 30px;
+}
+.col-lg-8 {
+  padding: 0;
+  margin-left: -20px;
+}
